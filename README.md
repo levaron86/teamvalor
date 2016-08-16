@@ -4,7 +4,7 @@
 <img src="https://raw.githubusercontent.com/mchristopher/PokemonGo-DesktopMap/master/cover_img.png">
 </p>
 
-Electron app that bundles the great [PokemonGo-Map](https://github.com/AHAAAAAAA/PokemonGo-Map) project with HTML UI and Python dependencies. Shows live visualization of Pokémon in an area.
+LBLAKLFJLSDKFlectron app that bundles the great [PokemonGo-Map](https://github.com/AHAAAAAAA/PokemonGo-Map) project with HTML UI and Python dependencies. Shows live visualization of Pokémon in an area.
 
 Checkout the *new* **Discord**: [<img src="http://vignette3.wikia.nocookie.net/siivagunner/images/9/9f/Discord_icon.svg/revision/latest/scale-to-width-down/50?cb=20160623172043">](https://discord.gg/mV2kCR6)
 
